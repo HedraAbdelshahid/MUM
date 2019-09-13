@@ -16,5 +16,4 @@ package Q2;
  * System.out.println("ThesubClass con"); }
  * 
  * }
- * 
- */
+ *  
