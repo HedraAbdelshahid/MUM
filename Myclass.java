@@ -14,6 +14,6 @@ package Q2;
  * 
  * class ThesubClass extends Myclass { ThesubClass(){
  * System.out.println("ThesubClass con"); }
- * 
+ * fff
  * }
  *  
